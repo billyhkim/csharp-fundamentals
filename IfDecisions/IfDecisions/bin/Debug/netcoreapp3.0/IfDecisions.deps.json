@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IfDecisions/1.0.0": {
+        "runtime": {
+          "IfDecisions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfDecisions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

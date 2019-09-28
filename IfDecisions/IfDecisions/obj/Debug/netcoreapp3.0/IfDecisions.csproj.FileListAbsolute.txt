@@ -1,0 +1,11 @@
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions.deps.json
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions.runtimeconfig.json
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions.runtimeconfig.dev.json
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions.dll
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/bin/Debug/netcoreapp3.0/IfDecisions.pdb
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/obj/Debug/netcoreapp3.0/IfDecisions.csprojAssemblyReference.cache
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/obj/Debug/netcoreapp3.0/IfDecisions.AssemblyInfoInputs.cache
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/obj/Debug/netcoreapp3.0/IfDecisions.AssemblyInfo.cs
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/obj/Debug/netcoreapp3.0/IfDecisions.dll
+/Users/billykim/code/csharp-fundamentals/IfDecisions/IfDecisions/obj/Debug/netcoreapp3.0/IfDecisions.pdb
