@@ -1,0 +1,11 @@
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables.deps.json
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables.runtimeconfig.json
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables.runtimeconfig.dev.json
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables.dll
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/bin/Debug/netcoreapp3.0/Variables.pdb
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/obj/Debug/netcoreapp3.0/Variables.csprojAssemblyReference.cache
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/obj/Debug/netcoreapp3.0/Variables.AssemblyInfoInputs.cache
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/obj/Debug/netcoreapp3.0/Variables.AssemblyInfo.cs
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/obj/Debug/netcoreapp3.0/Variables.dll
+/Users/billykim/code/csharp-fundamentals/Variables/Variables/obj/Debug/netcoreapp3.0/Variables.pdb
