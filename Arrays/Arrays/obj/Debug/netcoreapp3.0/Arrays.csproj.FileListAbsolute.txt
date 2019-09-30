@@ -1,0 +1,11 @@
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays.deps.json
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.json
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.dev.json
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays.dll
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/bin/Debug/netcoreapp3.0/Arrays.pdb
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/obj/Debug/netcoreapp3.0/Arrays.csprojAssemblyReference.cache
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfoInputs.cache
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfo.cs
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/obj/Debug/netcoreapp3.0/Arrays.dll
+/Users/billykim/code/csharp-fundamentals/Arrays/Arrays/obj/Debug/netcoreapp3.0/Arrays.pdb
