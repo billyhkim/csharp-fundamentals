@@ -1,0 +1,11 @@
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration.deps.json
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration.runtimeconfig.json
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration.runtimeconfig.dev.json
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration.dll
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/bin/Debug/netcoreapp3.0/ForIteration.pdb
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/obj/Debug/netcoreapp3.0/ForIteration.csprojAssemblyReference.cache
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/obj/Debug/netcoreapp3.0/ForIteration.AssemblyInfoInputs.cache
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/obj/Debug/netcoreapp3.0/ForIteration.AssemblyInfo.cs
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/obj/Debug/netcoreapp3.0/ForIteration.dll
+/Users/billykim/code/csharp-fundamentals/ForIteration/ForIteration/obj/Debug/netcoreapp3.0/ForIteration.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForIteration", "ForIteration\ForIteration.csproj", "{F5551AF9-22DC-4411-96AE-810FE7E46056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5551AF9-22DC-4411-96AE-810FE7E46056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5551AF9-22DC-4411-96AE-810FE7E46056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5551AF9-22DC-4411-96AE-810FE7E46056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5551AF9-22DC-4411-96AE-810FE7E46056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

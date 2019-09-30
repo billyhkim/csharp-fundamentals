@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{C1E4FFDB-DB59-4543-A6EC-F5E4FCF84029}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Variables/Program.cs">
+﻿<Properties StartupConfiguration="{F5551AF9-22DC-4411-96AE-810FE7E46056}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForIteration FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForIteration/Program.cs">
     <Files>
-      <File FileName="Variables/Program.cs" Line="29" Column="52" />
+      <File FileName="ForIteration/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Variables" expanded="True">
-            <Node name="Variables" expanded="True">
+          <Node name="ForIteration" expanded="True">
+            <Node name="ForIteration" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
