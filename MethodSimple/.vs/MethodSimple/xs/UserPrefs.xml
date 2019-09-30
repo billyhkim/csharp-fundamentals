@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{DC78F33C-B0DC-4061-AE78-18CA8C2D6D03}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
+﻿<Properties StartupConfiguration="{8EB00628-2B02-4A82-BE0F-F38FC913610A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodSimple/Program.cs">
     <Files>
-      <File FileName="Arrays/Program.cs" Line="56" Column="40" />
+      <File FileName="MethodSimple/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Arrays" expanded="True">
-            <Node name="Arrays" expanded="True">
+          <Node name="MethodSimple" expanded="True">
+            <Node name="MethodSimple" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,8 +20,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MethodSimple FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

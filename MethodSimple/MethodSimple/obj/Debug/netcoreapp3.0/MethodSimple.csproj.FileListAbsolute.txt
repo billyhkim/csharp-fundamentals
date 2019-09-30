@@ -1,0 +1,11 @@
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple.deps.json
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple.runtimeconfig.json
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple.runtimeconfig.dev.json
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple.dll
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/bin/Debug/netcoreapp3.0/MethodSimple.pdb
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/obj/Debug/netcoreapp3.0/MethodSimple.csprojAssemblyReference.cache
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/obj/Debug/netcoreapp3.0/MethodSimple.AssemblyInfoInputs.cache
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/obj/Debug/netcoreapp3.0/MethodSimple.AssemblyInfo.cs
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/obj/Debug/netcoreapp3.0/MethodSimple.dll
+/Users/billykim/code/csharp-fundamentals/MethodSimple/MethodSimple/obj/Debug/netcoreapp3.0/MethodSimple.pdb
