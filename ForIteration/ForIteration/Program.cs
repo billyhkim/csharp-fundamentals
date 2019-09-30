@@ -14,6 +14,8 @@ namespace ForIteration
                     break;
                 }
             }
+
+
             Console.ReadLine();
         }
     }
